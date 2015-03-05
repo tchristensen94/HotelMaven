@@ -1,0 +1,6 @@
+hotel/db/DBAccessor.class
+hotel/db/HotelDao.class
+hotel/web/controller/HotelControl.class
+hotel/web/model/HotelModel.class
+hotel/web/model/HotelService.class
+hotel/db/DB_MySql.class
